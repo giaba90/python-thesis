@@ -23,7 +23,7 @@ Struttura del progetto
 - **algoritmo2.py** contiene l'algoritmo utilizzato quando le condizioni necessarie non sono verificate.
 - **utilty.py** contiene delle funzioni di supporto
 
-Il progetto viene corredato da file di input di esempio, per prova in campo:
+Il progetto viene corredato da file di input di esempio per testare il programma:
 -	1fattK6FM.txt
 -	P3 cn nf.txt
 -	S2-4-16-FS.txt
