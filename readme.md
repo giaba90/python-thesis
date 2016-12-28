@@ -9,12 +9,11 @@ In matematichese: ripartisce i blocchi del G-disegno in classi di parallelismo d
 Requisiti
 =========
 L'algoritmo è stato scritto nel linguaggio di programmazione Python pertanto, per funzionare dovete installare sul vostro computer  l'interprete Python.
-Di seguito sono elencate le guide per ogni sistema operativo:
 
-* **MAC OSX** :
-* **LINUX**  :
-* **WINDOS** :
+Di seguito la guida esplicativa:
 
+
+[Link alla guida](http://bit.ly/2iEv9e9)
 
 
 
@@ -33,7 +32,7 @@ recatevi nella cartella dove avete salvato il file e digitate
 
  `python main.py 1fattK6FM.txt`
 
- La matrice di input che abbiamo preso in esempio ha una forma del genere:
+ La matrice di input che abbiamo preso in esempio ( che potrete trovare all'interno del file 1fattK6FM.txt) ha una forma del genere:
 
 		1,2
 		1,3
@@ -54,3 +53,9 @@ recatevi nella cartella dove avete salvato il file e digitate
 
 Sullo schermo vi verrà chiesto di inserire l'ordine del grafo, la cardinalità dei blocchi e il numero dei blocchi.
 Se non ci sono errori, vi verrà stampata la soluzione a schermo e salvata anche in un file chiamato "risultato.txt"
+
+Esempio 2
+
+Potete anche inserire a mano la matrice in input semplice avviando il programmando con il comando
+
+`python main.py`
