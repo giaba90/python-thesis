@@ -21,6 +21,7 @@ Di seguito sono elencate le guide per ogni sistema operativo:
 Uso
 ===
  `python main.py matrice-di-input `
+ 
  Esempio
  `python main.py 1fattK6FM.txt`
  
