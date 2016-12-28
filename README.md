@@ -11,9 +11,9 @@ Requisiti
 L'algoritmo è stato scritto nel linguaggio di programmazione Python pertanto, per funzionare dovete installare sul vostro computer il compilatore per Python.
 Di seguito sono elencate le guide per ogni sistema operativo:
 
-* __MAC OSX __ :
-* __ LINUX __  :
-* __ WINDOS __ :
+* **MAC OSX** :
+* **LINUX**  :
+* **WINDOS** :
 
 
 
