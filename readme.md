@@ -8,7 +8,7 @@ In matematichese: ripartisce i blocchi del G-disegno in classi di parallelismo d
 
 Requisiti
 =========
-L'algoritmo è stato scritto nel linguaggio di programmazione Python pertanto, per funzionare dovete installare sul vostro computer il compilatore per Python.
+L'algoritmo è stato scritto nel linguaggio di programmazione Python pertanto, per funzionare dovete installare sul vostro computer  l'interprete Python.
 Di seguito sono elencate le guide per ogni sistema operativo:
 
 * **MAC OSX** :
@@ -24,6 +24,8 @@ Aprire il terminale:
 * su **MAC** : Applicazioni -> Utility -> Terminale.app
 * su **Windows** : Start -> Esegui -> poi digitate "cmd" senza virgolette
 
+recatevi nella cartella dove avete salvato il file e digitate
+
 
  `python main.py matrice-di-input `
 
@@ -33,9 +35,9 @@ Aprire il terminale:
 
  La matrice di input che abbiamo preso in esempio ha una forma del genere:
 
- 		1,2
- 		1,3
- 		1,4	
+		1,2
+		1,3
+		1,4
 		1,5
 		1,6
 		2,3
