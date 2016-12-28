@@ -15,7 +15,20 @@ Di seguito la guida esplicativa:
 
 [Link alla guida](http://bit.ly/2iEv9e9)
 
+Struttura del progetto
+======================
 
+- **main.py** File principale del progetto.
+- **algoritmo1.py** contiene l'algoritmo utilizzato quando le condizioni necessarie sono verificate.
+- **algoritmo2.py** contiene l'algoritmo utilizzato quando le condizioni necessarie non sono verificate.
+- **utilty.py** contiene delle funzioni di supporto
+
+Il progetto viene corredato da file di input di esempio, per prova in campo:
+-	1fattK6FM.txt
+-	P3 cn nf.txt
+-	S2-4-16-FS.txt
+-	STS13-NF.txt
+-	STS7.txt
 
 Uso
 ===
@@ -71,3 +84,5 @@ Il motivo è dettato dal numero di calcoli, imposti dall'algoritmo matematico.
 Contatti
 ========
 Per info o problemi vari
+
+Email: info[chiocciola]gianlucabarranca[punto]it
