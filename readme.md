@@ -20,12 +20,18 @@ Di seguito sono elencate le guide per ogni sistema operativo:
 
 Uso
 ===
+Aprire il terminale:
+* su **MAC** : Applicazioni -> Utility -> Terminale.app
+* su **Windows** : Start -> Esegui -> poi digitate "cmd" senza virgolette
+
+
  `python main.py matrice-di-input `
 
  Esempio
+
  `python main.py 1fattK6FM.txt`
 
- La matrice di input che abbiamo preso in esempio ha una forma del genere
+ La matrice di input che abbiamo preso in esempio ha una forma del genere:
 
  	1,2
  	1,3
@@ -42,3 +48,6 @@ Uso
 	4,5
 	4,6
 	5,6
+
+Sullo schermo vi verrà chiesto di inserire l'ordine del grafo, la cardinalità dei blocchi e il numero dei blocchi.
+Se non ci sono errori, vi verrà stampata la soluzione a schermo e salvata anche in un file chiamato "risultato.txt"
