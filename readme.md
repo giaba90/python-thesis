@@ -33,9 +33,9 @@ Aprire il terminale:
 
  La matrice di input che abbiamo preso in esempio ha una forma del genere:
 
- 	1,2
- 	1,3
- 	1,4	
+ 		1,2
+ 		1,3
+ 		1,4	
 		1,5
 		1,6
 		2,3
