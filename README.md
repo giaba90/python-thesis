@@ -21,3 +21,23 @@ Di seguito sono elencate le guide per ogni sistema operativo:
 Uso
 ===
  `python main.py matrice-di-input `
+ Esempio
+ `python main.py 1fattK6FM.txt`
+ 
+ La matrice di input che abbiamo preso in esempio ha una forma del genere
+ 
+ 1,2
+ 1,3
+ 1,4
+ 1,5
+ 1,6
+ 2,3
+ 2,4
+ 2,5
+ 2,6
+ 3,4
+ 3,5
+ 3,6
+ 4,5
+ 4,6
+ 5,6
