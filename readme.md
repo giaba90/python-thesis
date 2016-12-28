@@ -59,3 +59,15 @@ Esempio 2
 Potete anche inserire a mano la matrice in input semplice avviando il programmando con il comando
 
 `python main.py`
+
+
+Note
+====
+
+Per matrici troppo grandi il tempo di esecuzione del programma risulta troppo lungo per un computer domestico. Si consiglia per tanto la prova all'interno del centro di calcolo universitario.
+Il motivo è dettato dal numero di calcoli, imposti dall'algoritmo matematico.
+
+
+Contatti
+========
+Per info o problemi vari
