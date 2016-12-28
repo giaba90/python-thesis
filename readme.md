@@ -49,5 +49,6 @@ Aprire il terminale:
 	4,6
 	5,6
 
+
 Sullo schermo vi verrà chiesto di inserire l'ordine del grafo, la cardinalità dei blocchi e il numero dei blocchi.
 Se non ci sono errori, vi verrà stampata la soluzione a schermo e salvata anche in un file chiamato "risultato.txt"
