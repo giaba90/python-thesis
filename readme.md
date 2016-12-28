@@ -35,19 +35,19 @@ Aprire il terminale:
 
  	1,2
  	1,3
- 	1,4
-	1,5
-	1,6
-	2,3
-	2,4
-	2,5
-	2,6
-	3,4
-	3,5
-	3,6
-	4,5
-	4,6
-	5,6
+ 	1,4	
+		1,5
+		1,6
+		2,3
+		2,4
+		2,5
+		2,6
+		3,4
+		3,5
+		3,6
+		4,5
+		4,6
+		5,6
 
 
 Sullo schermo vi verrà chiesto di inserire l'ordine del grafo, la cardinalità dei blocchi e il numero dei blocchi.
